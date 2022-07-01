@@ -1,6 +1,6 @@
 # SenBank
 
-Aplication réalisée dans le cadre d'un projet de fin d'étude.
+Aplication réalisée dans le cadre d'un projet de fin d'étude avec React Native et Firebase
 
 Senbank est une application qui permet donc à ses utilisateurs de consulter leurs
 comptes bancaires et d’effectuer des transferts d’argent ou virements.
@@ -21,6 +21,4 @@ l’application leur permet aussi d’interagir en temps réel avec leur banque.
 ![home](https://user-images.githubusercontent.com/68824973/153757917-389aba6b-ff1f-4fb5-a1d4-bf7898c9cc85.jpg)
 ![inscription](https://user-images.githubusercontent.com/68824973/153757920-0b71db60-e071-4dc4-b084-8fb6b8e6f1c1.jpg)
 ![virement](https://user-images.githubusercontent.com/68824973/153757939-406d4989-cc1a-4b3e-b418-52e11eaa21d5.jpg)
-
-
 
