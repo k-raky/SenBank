@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.text.*?>
+<?import java.lang.*?>
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+<?import javafx.scene.layout.AnchorPane?>
+
+<AnchorPane prefHeight="356.0" prefWidth="365.0" BorderPane.alignment="CENTER" xmlns="http://javafx.com/javafx/8" xmlns:fx="http://javafx.com/fxml/1" fx:controller="controllers.operationController">
+   <children>
+      <TitledPane alignment="CENTER" contentDisplay="BOTTOM" prefHeight="370.0" prefWidth="365.0" text="Numero de Commande">
+         <content>
+            <ScrollPane prefHeight="354.0" prefWidth="363.0">
+               <content>
+                  <ListView fx:id="listNumCommandes" editable="true" fixedCellSize="60.0" onMouseClicked="#showPrintFiles" prefHeight="339.0" prefWidth="363.0" style="-fx-alignment: CENTER; -fx-font-size : 15px" />
+               </content>
+            </ScrollPane>
+         </content>
+         <font>
+            <Font size="14.0" />
+         </font>
+      </TitledPane>
+   </children>
+</AnchorPane>
